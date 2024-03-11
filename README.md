@@ -1,6 +1,7 @@
-# znamlab.github.io
+# lecilab.github.io
 Lab website of the Specification and Function of Neural Circuits Laboratory at
-the Francis Crick Institute. The website is largely based on the
+the Francis Crick Institute. Forked from [ZnamLab](https://znamlab.org/)
+The website is largely based on the
 [template](https://github.com/mpa139/allanlab) provided by
 [the Allan lab](http://www.allanlab.org/) and includes some code
 adapted from the website of [the Bedford lab](https://bedford.io/).
