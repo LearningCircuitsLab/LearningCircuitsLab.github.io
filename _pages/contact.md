@@ -7,7 +7,7 @@ permalink: /contact
 ---
 
 <div class="col-sm-6 text-center">
-<h2>Petr Znamenskiy</h2>
+<h2>Hernando M. Vergara</h2>
 <p>
 <a href="mailto:hvergarabio@gmail.com"><i class="fas fa-envelope fa-fw"></i>&nbsp; hvergarabio@gmail.com</a><br />
 <a href="https://twitter.com/HernyMV"><i class="fab fa-twitter"></i>&nbsp; @HernyMV</a>
