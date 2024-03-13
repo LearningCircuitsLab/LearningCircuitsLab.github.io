@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Description of the lab.
 baseurl: "/lecilab" # the subpath of your site, e.g. /blog
 url: "https://learningcircuitslab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  HernandoMV
+github_username: HernandoMV
 
 sass:
   sass_dir: _sass
