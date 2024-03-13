@@ -23,7 +23,7 @@ title: Learning Circuits Lab | Neural circuits involved in learning
 description: >- # this means to ignore newlines until "baseurl:"
   Description of the lab.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://lecilab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://learningcircuitslab.github.io/lecilab/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  HernandoMV
 
 sass:
