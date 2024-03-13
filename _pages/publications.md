@@ -1,7 +1,7 @@
 ---
-title: "Znamenskiy Lab - Publications"
+title: "Learning Circuits Lab - Publications"
 layout: gridlay
-excerpt: "Znamenskiy Lab - Publications."
+excerpt: "Learning Circuits Lab - Publications."
 sitemap: false
 permalink: /publications
 ---

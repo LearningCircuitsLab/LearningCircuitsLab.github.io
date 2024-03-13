@@ -1,12 +1,12 @@
 # lecilab.github.io
-Lab website of the Specification and Function of Neural Circuits Laboratory at
-the Francis Crick Institute. Forked from [ZnamLab](https://znamlab.org/)
+Lab website of the Learning Circuits Laboratory at IDIBAPS.
 The website is largely based on the
 [template](https://github.com/mpa139/allanlab) provided by
 [the Allan lab](http://www.allanlab.org/) and includes some code
 adapted from the website of [the Bedford lab](https://bedford.io/).
 It uses some [Bootstrap](http://www.getbootstrap.com),
 [Bootswatch](http://www.bootswatch.com), and [Font Awesome](https://fontawesome.com/).
+This repository was originally forked from [ZnamLab](https://znamlab.org/).
 Website source code is freely available under MIT License.
 
 ## Modifying the website
@@ -31,20 +31,20 @@ The lab member files have the following header (I am using mine as an example):
 ```
 ---
 layout: member
-title: Petr Znamenskiy
-photo: Petr.jpg
-info: Group Leader
-email: petr.znamenskiy@crick.ac.uk
-github: znamensk
-twitter: petrzzz
-scholar: "https://scholar.google.com/citations?user=tZ3hWEYAAAAJ"
+title: Hernando M Vergara
+photo: Hernando.jpg
+info: Principal Investigator
+email: hmvergara@gmail.com
+github: HernandoMV
+twitter: HernyMV
+scholar: "https://scholar.google.de/citations?user=85xaFPUAAAAJ&hl"
 link_to_page: yes
 ---
 ```
 
 Any of the fields except `title` and `info` can be omitted or left blank, in which
 case the relevant item wont appear on the website. If you omit `link_to_page`
-or leave it blank, the [team page](https://znamlab.org/team/) wont link to your
+or leave it blank, the [team page](https://lecilab.github.io/team/) wont link to your
 personal page.
 
 Photos should be square and placed under `images/members` in the repo.

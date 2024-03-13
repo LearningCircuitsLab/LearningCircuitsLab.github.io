@@ -1,23 +1,5 @@
-- name: neurons_zstack.jpg
-  alt: Depth-coded projection of a Z-stack of cortical neurons
+- name: cortex.jpg
+  alt: Z-stack projection of cortical neurons
 
-- name: brain.jpg
-  alt: In situ for cell type specific markers
-
-- name: lab_walk.jpg
-  alt: Lab outing to the North Downs
-
-- name: microscope.jpg
-  alt: Two-photon microscope with eye and behavior tracking cameras
-
-- name: tetrode_drive.jpg
-  alt: Tetrode microdrive array
-
-- name: crick_exterior.jpg
-  alt: The facade of the Francis Crick Institute
-
-- name: crick_photo.jpg
-  alt: The Crick in the evening
-
-- name: crick_night.jpg
-  alt: The Crick in the evening
+- name: section.jpg
+  alt: Fluorescence image of a Tlx-3 x Ai14 mouse brain section

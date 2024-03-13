@@ -1,7 +1,7 @@
 ---
-title: "Znamenskiy Lab - Team Members"
+title: "Learning Circuits Lab - Team Members"
 layout: gridlay
-excerpt: "Members of the Znamenskiy lab at the Francis Crick Institute"
+excerpt: "Members of the Learning Circuits lab at the IDIBAPS"
 sitemap: false
 permalink: /team
 ---
