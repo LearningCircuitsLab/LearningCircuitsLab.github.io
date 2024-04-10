@@ -14,14 +14,15 @@ Learning Circuits Laboratory
 <div class="col-sm-12">
   <p>
   We are a research group at <a href="https://braincircuitsbehavior.org/">the Brain Circuits and Behavior Lab</a>
-  in <a href="https://www.clinicbarcelona.org/en/idibaps">the Instituto de Investigaciones Biomédicas August Pi i Sunyer</a>.
-  We are interested in ....
+  in the <a href="https://www.clinicbarcelona.org/en/idibaps">Instituto de Investigaciones Biomédicas August Pi i Sunyer</a>.
+  </b>
+  We are interested in the brain circuits that mediate learned behaviors.
   </p>
 </div>
 
 <div class="col-12" markdown="1">
 <div class="carousel slide" data-ride="carousel">
-  <div class="carousel-inner" role="listbox" style="max-width:900px; max-height:600px !important;">
+  <div class="carousel-inner" role="listbox" style="max-width:600px; max-height:400px !important;">
     {% for image in site.data.gallery %}
     {% if forloop.index == 1 %}
     <div class="carousel-item active">
