@@ -15,7 +15,7 @@ Learning Circuits Laboratory
   <p>
   We are a research group at <a href="https://braincircuitsbehavior.org/">the Brain Circuits and Behavior Lab</a>
   in the <a href="https://www.clinicbarcelona.org/en/idibaps">Instituto de Investigaciones Biomédicas August Pi i Sunyer</a>.
-  </b>
+  <br>
   We are interested in the brain circuits that mediate learned behaviors.
   </p>
 </div>
