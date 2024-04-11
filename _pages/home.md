@@ -29,21 +29,22 @@ Learning Circuits Laboratory
 </div>
 
 <div class="col-12" markdown="1" style="margin: auto; width: 75%;">
-<div class="carousel slide" data-ride="carousel">
-  <div class="carousel-inner" role="listbox" style="max-width:600px; max-height:400px;">
-    {% for image in site.data.gallery %}
-    {% if forloop.index == 1 %}
-    <div class="carousel-item active">
-    {% else %}
-    <div class="carousel-item">
-    {% endif %}
-      <img class="d-block w-100" src="{{ site.url }}{{ site.baseurl }}/images/carousel/{{ image.name }}" alt="{{ image.alt }}">
+  <div class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner" role="listbox">
+      {% for image in site.data.gallery %}
+      {% if forloop.index == 1 %}
+      <div class="carousel-item active">
+      {% else %}
+      <div class="carousel-item">
+      {% endif %}
+        <img class="d-block w-100" src="{{ site.url }}{{ site.baseurl }}/images/carousel/{{ image.name }}" alt="{{ image.alt }}">
+      </div>
+      {% endfor %}
     </div>
-    {% endfor %}
   </div>
 </div>
 
 # More stuff here
 
 <p></p>
-</div>
+
