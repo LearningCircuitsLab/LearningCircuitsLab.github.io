@@ -4,9 +4,9 @@ excerpt: "The Learning Circuits Laboratory at the IDIBAPS is studying the neural
 sitemap: false
 permalink: /
 ---
-<div class="col-sm-12" style="text-align: center !important;">
+<div class="col-sm-12">
 <img class="float-left biglogo mx-auto d-block" src="{{ site.url }}{{ site.baseurl }}/images/mouse_brain_logo.png">
-<div class="bigtitle titlebox">
+<div class="bigtitle titlebox" style="text-align: center !important;">
 Learning Circuits Laboratory
 </div>
 </div>
