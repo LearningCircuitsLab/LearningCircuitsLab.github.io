@@ -4,7 +4,7 @@ excerpt: "The Learning Circuits Laboratory at the IDIBAPS is studying the neural
 sitemap: false
 permalink: /
 ---
-<div class="col-sm-12">
+<div class="col-sm-12" style="text-align: center;">
 <img class="float-left biglogo" src="{{ site.url }}{{ site.baseurl }}/images/mouse_brain_logo.png">
 <div class="bigtitle titlebox">
 Learning Circuits Laboratory
@@ -27,7 +27,7 @@ Learning Circuits Laboratory
   </p>
 </div>
 
-<div class="col-12" markdown="1">
+<div class="col-12" markdown="1" style="margin: auto; width: 75%;">
 <div class="carousel slide" data-ride="carousel">
   <div class="carousel-inner" role="listbox" style="max-width:600px; max-height:400px !important;">
     {% for image in site.data.gallery %}
