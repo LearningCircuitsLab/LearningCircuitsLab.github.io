@@ -65,6 +65,7 @@ img {
 .navbar-light .navbar-brand {
   font-size: $font-size-base * 1.25;
   font-weight: 600;
+  background-color: #1e5389;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -75,10 +76,6 @@ img {
 .navbar-light .nav-item:focus .nav-link,
 .navbar-light .nav-item:hover .nav-link {
     color: $black;
-}
-
-.navbar-light {
-  background-color: #1e5389;
 }
 
 .bg-light {
