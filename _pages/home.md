@@ -4,7 +4,7 @@ excerpt: "The Learning Circuits Laboratory at the IDIBAPS is studying the neural
 sitemap: false
 permalink: /
 ---
-<div class="col-sm-12">
+<div class="col-sm-12" style="display: flex; justify-content: center; align-items: center;">
 <img class="float-left biglogo" src="{{ site.url }}{{ site.baseurl }}/images/mouse_brain_logo.png">
 <div class="bigtitle titlebox">
 Learning Circuits Laboratory
