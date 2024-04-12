@@ -56,6 +56,9 @@ img {
 	/* Museo */
 }
 
+.navbar-light {
+  background-color: #1e5389;
+}
 
 .navbar-light .navbar-brand,
 .navbar-light .navbar-text {
@@ -65,7 +68,6 @@ img {
 .navbar-light .navbar-brand {
   font-size: $font-size-base * 1.25;
   font-weight: 600;
-  background-color: #1e5389;
 }
 
 .navbar-light .navbar-nav .nav-link {
