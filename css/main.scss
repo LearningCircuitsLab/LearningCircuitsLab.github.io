@@ -56,10 +56,6 @@ img {
 	/* Museo */
 }
 
-.navbar-light {
-  background-color: #1e5389;
-}
-
 .navbar-light .navbar-brand,
 .navbar-light .navbar-text {
     color: $logo;
@@ -97,6 +93,7 @@ img {
   margin-right: auto;
   margin-left: auto;
   max-width: 1000px; /* or 950px */
+  background-color: #1e5389;
 }
 
 /* Home, News */
