@@ -28,8 +28,8 @@ Learning Circuits Laboratory
   </p>
 </div>
 
-<div class="col-12" markdown="1" style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <div class="carousel slide" data-ride="carousel" style="max-width:600px; max-height:400px;">
+<div class="col-12" markdown="1" style="display: flex; justify-content: center; align-items: center;">
+  <div class="carousel slide" data-ride="carousel" style="max-width:600px; max-height:400px; !important;">
     <div class="carousel-inner" role="listbox">
       {% for image in site.data.gallery %}
       {% if forloop.index == 1 %}
