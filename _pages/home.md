@@ -6,7 +6,7 @@ permalink: /
 ---
 <div class="col-sm-12" style="display: flex; justify-content: center; align-items: center;">
 <img class="float-left biglogo" src="{{ site.url }}{{ site.baseurl }}/images/mouse_brain_logo.png">
-<div class="bigtitle titlebox">
+<div class="bigtitle titlebox; !important;">
 Learning Circuits Laboratory
 </div>
 </div>
