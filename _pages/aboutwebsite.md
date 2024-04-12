@@ -16,3 +16,5 @@ by [Jekyll](https://jekyllrb.com) and uses some [Bootstrap](http://www.getbootst
 The source code is maintained on [GitHub](https://github.com/learningcircuitslab/learningcircuitslab.github.io)
 for version control and is freely available under MIT license.  The website is hosted on
 [GitHub Pages](https://pages.github.com/).
+This repository was originally forked from [ZnamLab](https://znamlab.org/).
+
