@@ -22,7 +22,7 @@ Learning Circuits Laboratory
       <li>Trans-synaptic viral approaches to reconstruct <strong>long-range circuits</strong> between the telencephalon and the midbrain.</li>
       <li>Transcriptomic approaches to characterize the <strong>cell types</strong> in different brain areas.</li>
       <li>Electrophysiology and optogenetics to probe the activity and <strong>function</strong> of specific neurons.</li>
-      <li>We aim to integrate and combine the above tools to achieve a description of circuits that incorporates the identity of neurons, their connectivity, how their activity gives rises to specific behaviors, and how this changes during learning.</li>
+      <li>We aim to <strong>integrate</strong> and combine the above tools to achieve a description of circuits that incorporates the identity of neurons, their connectivity, how their activity gives rises to specific behaviors, and how this changes during learning.</li>
       <li>Our interest extends beyond the mouse, and one of our goals is to compare our findings across species. With distant animals to understand the <strong>evolution</strong> of these circuits, and with humans to understand how these circuits are affected in distinct <strong>neuropathologies</strong>.</li>
     </ul>
   </p>
@@ -44,7 +44,6 @@ Learning Circuits Laboratory
   </div>
 </div>
 
-# More stuff here
 
 <p></p>
 
