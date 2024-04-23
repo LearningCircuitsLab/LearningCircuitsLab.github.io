@@ -16,8 +16,8 @@ permalink: /contact
 
 <div class="col-sm-6 text-center my-auto">
 <h3>Find us on Github</h3>
-<p><a href="https://github.com/lecilab">
-<i class="fab fa-github"></i>&nbsp; https://github.com/lecilab</a></p>
+<p><a href="https://github.com/learningcircuitslab">
+<i class="fab fa-github"></i>&nbsp; https://github.com/learningcircuitslab</a></p>
 </div>
 
 <div class="col-sm-6 my-auto text-center">
@@ -28,5 +28,5 @@ C/ del Rosselló, 149, L'Eixample <br />
 </div>
 
 <div class="col-sm-6 text-center">
-<img class="img-fluid" src="{{ site.url }}{{ site.baseurl }}/images/idibaps_aereo.png">
+<img class="img-fluid" src="{{ site.url }}{{ site.baseurl }}/images/Idibaps_aereo.png">
 </div>
