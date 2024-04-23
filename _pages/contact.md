@@ -9,7 +9,7 @@ permalink: /contact
 <div class="col-sm-6 text-center">
 <h2>Hernando M. Vergara</h2>
 <p>
-<a href="mailto:hvergarabio@gmail.com"><i class="fas fa-envelope fa-fw"></i>&nbsp; hvergarabio@gmail.com</a><br />
+<a href="mailto:hmartinez@recerca.clinic.cat"><i class="fas fa-envelope fa-fw"></i>&nbsp; hmartinez at recerca.clinic.cat</a><br />
 <a href="https://twitter.com/HernyMV"><i class="fab fa-twitter"></i>&nbsp; @HernyMV</a>
 </p>
 </div>
@@ -17,11 +17,11 @@ permalink: /contact
 <div class="col-sm-6 text-center my-auto">
 <h3>Find us on Github</h3>
 <p><a href="https://github.com/learningcircuitslab">
-<i class="fab fa-github"></i>&nbsp; https://github.com/learningcircuitslab</a></p>
+<i class="fab fa-university"></i>&nbsp; https://github.com/learningcircuitslab</a></p>
 </div>
 
 <div class="col-sm-6 my-auto text-center">
-<h3>IDIBAPS</h3>
+<h3><a href="https://www.clinicbarcelona.org/en/idibaps"><i class="fab fa-twitter"></i>&nbsp; IDIBAPS</a></h3>
 Instituto de Investigaciones Biomédicas August Pi i Sunyer <br />
 C/ del Rosselló, 149, L'Eixample <br />
 08036 Barcelona, Spain <br />
