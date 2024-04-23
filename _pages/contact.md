@@ -11,7 +11,7 @@ permalink: /contact
 <p>
 <a href="mailto:hmartinez@recerca.clinic.cat"><i class="fas fa-envelope fa-fw"></i>&nbsp; hmartinez at recerca.clinic.cat</a><br />
 <a href="https://twitter.com/HernyMV"><i class="fab fa-twitter"></i>&nbsp; @HernyMV</a><br />
-<a href="https://https://hernandomv.github.io/"><i class="fa fa-id-card-o" aria-hidden="true"></i>&nbsp; personal website</a>
+<a href="https://https://hernandomv.github.io/"><i class="fas fa-id-card-o fa-fw"></i>&nbsp; personal website</a>
 </p>
 </div>
 
