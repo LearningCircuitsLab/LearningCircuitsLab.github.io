@@ -9,9 +9,9 @@ permalink: /contact
 <div class="col-sm-6 text-center">
 <h2>Hernando M. Vergara</h2>
 <p>
-<a href="mailto:hmartinez@recerca.clinic.cat"><i class="fas fa-user-circle-o fa-fw"></i>&nbsp; hmartinez at recerca.clinic.cat</a><br />
+<a href="mailto:hmartinez@recerca.clinic.cat"><i class="fas fa-envelope fa-fw"></i>&nbsp; hmartinez at recerca.clinic.cat</a><br />
 <a href="https://twitter.com/HernyMV"><i class="fab fa-twitter"></i>&nbsp; @HernyMV</a><br />
-<a href="https://https://hernandomv.github.io/"><i class="fas fa-envelope fa-fw"></i>&nbsp; personal website</a>
+<a href="https://https://hernandomv.github.io/"><i class="fas fa-user-circle fa-fw"></i>&nbsp; personal website</a>
 </p>
 </div>
 
