@@ -18,7 +18,7 @@ permalink: /contact
 <div class="col-sm-6 text-center my-auto">
 <h3>Find us on Github</h3>
 <p><a href="https://github.com/learningcircuitslab">
-<i class="fab fa-twitter"></i>&nbsp; https://github.com/learningcircuitslab</a></p>
+<i class="fab fa-github"></i>&nbsp; https://github.com/learningcircuitslab</a></p>
 </div>
 
 <div class="col-sm-6 my-auto text-center">
