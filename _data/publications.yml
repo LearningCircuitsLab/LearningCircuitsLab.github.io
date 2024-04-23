@@ -5,3 +5,10 @@
   image: APE_summary.png
   url: "https://www.biorxiv.org/content/early/2022/09/14/2022.09.12.507572"
 
+- title: "Whole-body integration of gene expression and single-cell morphology"
+  authors: Hernando Vergara, Constantin Pape, Kimberly Meechan, Valentyna Zinchenko, Christel Genoud, Adrian Wanner, Kevin Mutemi, Benjamin Titze, Rachel Templin, Paola Bertucci, Oleg Simakov, Wiebke Dürichen, Pedro Machado, Emily Savage, Lothar Schermelleh, Yannick Schwab, Rainer Friedrich, Anna Kreshuk, Christian Tischer, Detlev Arendt
+  ref: Cell, 2021
+  description: We present a pipeline for the integration of gene expression data with single-cell morphology in whole-body specimens, and apply it to the marine annelid Platynereis dumerilii.
+  image: PlatyCell_summary.jpg
+  url: "https://www.sciencedirect.com/science/article/pii/S009286742100876X"
+
