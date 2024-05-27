@@ -14,7 +14,7 @@ including a CV and a cover letter describing their research interests and
 motivation for joining the lab.
 
 ## PhD students
-text and links here
+Please get in touch with <a href="{{ site.url }}{{ site.baseurl }}/contact">Hernando</a>.
 
 ## Undergraduate and Master students
 We welcome enquiries from MSc students interested in carrying out their research projects in the lab. Please get in
