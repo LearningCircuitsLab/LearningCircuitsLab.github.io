@@ -16,9 +16,3 @@ In a recent publication, we have characterized a precise area in the striatum (i
  2- the identity of the cell types that constitute the midbrain circuits modulated by the tail of striatum using high-throughput molecular techniques.
  3- the functional relevance of these circuits employing pharmacological and optogenetic techniques, using behavioral modeling approaches to evaluate their contributions during learning.
 These experiments will reveal the identity and the role of the cell types and circuits by which the tail of the striatum influences downstream structures, adding to our understanding on the function of the basal ganglia during learning and behavior.
-
-
-Paragraph two
-
-## project two
-text
