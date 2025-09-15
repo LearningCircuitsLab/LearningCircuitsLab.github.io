@@ -47,3 +47,6 @@ Learning Circuits Laboratory
 
 <p></p>
 
+<strong>Our research is supported by:</strong>
+<br>
+<img class="float-left" src="{{ site.url }}{{ site.baseurl }}/images/AEI_logo.png">
