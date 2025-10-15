@@ -1,5 +1,11 @@
+- name: sample_behavior_track.gif
+  alt: Example behavior tracking data
+  
 - name: cortex.jpg
   alt: Z-stack projection of cortical neurons
 
 - name: section.jpg
   alt: Fluorescence image of a Tlx-3 x Ai14 mouse brain section
+
+- name: Idibaps_aereo.png
+  alt: IDIBAPS building aerial view
