@@ -32,6 +32,8 @@ Learning Circuits Laboratory
   <div class="carousel slide" data-ride="carousel" style="max-width:600px; max-height:400px; !important;">
     <div class="carousel-inner" role="listbox" style="max-width:600px; max-height:400px; !important;">
       {% for image in site.data.gallery %}
+      {% assign ext = image.name | split: '.' | last %}
+      {% if ext == 'jpg' or ext == 'png' or ext == 'gif' %}
       {% if forloop.index == 1 %}
       <div class="carousel-item active">
       {% else %}
@@ -39,6 +41,7 @@ Learning Circuits Laboratory
       {% endif %}
         <img class="d-block w-100" src="{{ site.url }}{{ site.baseurl }}/images/carousel/{{ image.name }}" alt="{{ image.alt }}">
       </div>
+      {% endif %}
       {% endfor %}
     </div>
   </div>
