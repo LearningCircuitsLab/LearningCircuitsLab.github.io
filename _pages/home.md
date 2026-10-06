@@ -18,7 +18,8 @@ Learning Circuits Laboratory
   <br>
   We are interested in understanding the <strong>brain circuits that mediate acquired and innate behaviors</strong> in mice. Our main approaches and goals are:
     <ul>
-      <li>Use of behavioral paradigms based on audition and smell, and <strong>mathematical modelling</strong> to explain the learning and behavior of the animals.</li>
+      <li>Use of <strong>learning</strong> tasks based on audition and smell, and paradigms to elicit <strong>innate</strong> behaviors such as escape responses.</li>
+      <li><strong>mathematical modelling</strong> to explain the learning and behavior of the animals.</li>
       <li>Trans-synaptic viral approaches to reconstruct <strong>long-range circuits</strong> between the telencephalon and the midbrain.</li>
       <li>Transcriptomic approaches to characterize the <strong>cell types</strong> in different brain areas.</li>
       <li>Electrophysiology and optogenetics to probe the activity and <strong>function</strong> of specific neurons.</li>
