@@ -16,7 +16,7 @@ Learning Circuits Laboratory
   We are a research group at <a href="https://braincircuitsbehavior.org/">the Brain Circuits and Behavior Lab</a>
   in the <a href="https://www.clinicbarcelona.org/en/idibaps">Instituto de Investigaciones Biomédicas August Pi i Sunyer</a>.
   <br>
-  We are interested in understanding the <strong>brain circuits that mediate learned behaviors</strong> in mice. Our main approaches and goals are:
+  We are interested in understanding the <strong>brain circuits that mediate acquired and innate behaviors</strong> in mice. Our main approaches and goals are:
     <ul>
       <li>Use of behavioral paradigms based on audition and smell, and <strong>mathematical modelling</strong> to explain the learning and behavior of the animals.</li>
       <li>Trans-synaptic viral approaches to reconstruct <strong>long-range circuits</strong> between the telencephalon and the midbrain.</li>
